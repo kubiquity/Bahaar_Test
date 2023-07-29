@@ -1,0 +1,70 @@
+.centered-div {
+    width: 400px;
+    height: 500px;
+    background-color: rgba(13, 1, 22, 0.6);
+    background-blend-mode: hard-light;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+#Logo {
+    opacity: 100%;
+    width: 220px;
+    height: 58.04px;
+    padding-left: 22%;
+    padding-top: 9%;
+}
+#Login-text1{
+    color: #ffffff;
+    font-size:x-large;
+    padding-left: 18%;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+#Login-text2{
+    color: #A7539C;
+    font-size:medium;
+    padding-left: 23%;
+    margin-top: 6px;
+}
+#Login-text3{
+    color: #ffffff;
+    font-size:medium;
+    padding-left: 15%;
+    margin-top: 14px;
+}
+#icon-row{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 20px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+}
+#or{
+    width: 350px;
+    margin-left: 24px;
+    padding-bottom: 10px;
+}
+input{
+    opacity: 50%;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 12%;
+    margin-top: 12px;
+}
+#signin-button{
+    width: 130px;
+    height: 38px;
+    border-radius: 20px;
+    background-color: #DB3880;
+    color: #ffffff;
+    font-size:medium ;
+    margin-left: 32%;
+    margin-top: 7%;
+}
